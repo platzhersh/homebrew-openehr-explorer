@@ -7,7 +7,7 @@ cask "openehr-explorer" do
   desc "Browse, query, and inspect any openEHR CDR"
   homepage "https://platzhersh.github.io/openehr-explorer/"
 
-  depends_on macos: ">= :catalina"
+  depends_on macos: :catalina
 
   app "openEHR Explorer.app"
 
