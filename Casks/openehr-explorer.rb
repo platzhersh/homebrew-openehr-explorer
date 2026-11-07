@@ -1,6 +1,6 @@
 cask "openehr-explorer" do
-  version "0.10.0"
-  sha256 "6ad2237c64c27b077e9bef8c9904aa1666f0718eea155a1d222ba375bbb69086"
+  version "0.10.2"
+  sha256 "8f30bd95daab26ce9541ad5c4ea041c789bfab8b26dabc32574f93280c5290dd"
 
   url "https://github.com/platzhersh/openehr-explorer/releases/download/v#{version}/openEHR.Explorer_#{version}_universal.dmg"
   name "openEHR Explorer"
